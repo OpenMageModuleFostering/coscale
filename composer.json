@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/CoScale",
+    "type": "magento-module",
+    "license": "MITL",
+    "homepage": "",
+    "description": "This module enables you to send important business and IT metrics from Magento to CoScale.",
+    "authors": [
+    {
+        "name": "CoScale Developer",
+        "email": "info@coscale.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
